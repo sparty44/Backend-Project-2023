@@ -10,14 +10,18 @@ To accomplish this, I created a controller method, service method, repo method, 
 
 For further context, I was told to not worry about setting up a whole working enviroment for this assignment. Thus, this code is based on my previous employment enviroment and would need some minor tweaking based to plug into another workplace's code base. 
 
-The enviroment this is designed to work in;
+# The enviroment this is designed to work in ->
 
 node v14.17
+
 Angular v12.2.16
+
 typescript v4.3.5
 
-PACKAGES
+# PACKAGES
+
 @angular-devkit/core v10.2.1
+
 rxjs v6.6.7
 
 
