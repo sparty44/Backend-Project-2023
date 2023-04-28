@@ -8,7 +8,7 @@ I was to assume that the UI elements were already created and all that was neede
 
 To accomplish this, I created a controller method, service method, repo method, db entity file, and other associated files that if plugged into an Angular framework code base would allow the storage and retrieval of "employee" data. 
 
-For further context, I was told to not worry about setting up a whole working enviroment for this assignment. Thus, this code is based on my previous employment enviroment and would need some minor tweaking based to plug into another workplace's code base. 
+For further context, I was told to not worry about setting up a whole working enviroment for this assignment. Thus, this code is based on my previous employment enviroment and would need some minor tweaking to plug into another workplace's code base. 
 
 # The enviroment this is designed to work in ->
 
